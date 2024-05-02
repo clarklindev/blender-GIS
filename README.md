@@ -70,6 +70,8 @@ https://github.com/domlysz/BlenderGIS
 - world settings (right panel) -> color (round button on right of color) -> open hdri "environment texture" (download from polyhaven.com)
 - the hdri only render in cycles
 
+![GIS-taipei-render](./GIS-taipei-render.png)
+
 #### TODO:
 - add a cube and make it look like seawater (settings: roughness 0.1, transmission weight 1, blueish color, principled volume with very low density 0.0002)
 - add buildings -> GIS -> web geodata -> get Open street map data
